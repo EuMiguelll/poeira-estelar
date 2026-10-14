@@ -41,7 +41,7 @@ Sua nave ficou presa em uma estação abandonada. Colete todas as **estrelas** p
 - Música: original, gerada por código
 - Feito em Unity 6
 
-**Código-fonte (GitHub):** REPO_URL
+**Código-fonte (GitHub):** https://github.com/EuMiguelll/poeira-estelar
 
 ---
 

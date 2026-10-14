@@ -5,7 +5,7 @@ Jogo 2D feito em Unity para o **Projeto Introdução ao Unity (Tutorial)** da di
 **Aluno:** Miguel Fernandes Oliveira Damásio
 
 - **Jogar no navegador (itch.io):** ITCH_URL
-- **Repositório:** REPO_URL
+- **Repositório:** https://github.com/EuMiguelll/poeira-estelar
 
 ![Poeira Estelar](Docs/screenshot-jogo.png)
 
