@@ -1,6 +1,6 @@
 # Texto da página no itch.io
 
-Página publicada: https://eumiguel.itch.io/poeira-estelar (enviada para a jam em 14/10/2026).
+Página publicada: https://eumiguel.itch.io/poeira-estelar (enviada para a jam em 14/10/2026). Trailer: https://youtu.be/rP4A5fxGz3A
 
 **Título:** Poeira Estelar
 

@@ -6,6 +6,7 @@ Jogo 2D feito em Unity para o **Projeto Introdução ao Unity (Tutorial)** da di
 
 - **Jogar no navegador (itch.io):** https://eumiguel.itch.io/poeira-estelar
 - **Repositório:** https://github.com/EuMiguelll/poeira-estelar
+- **Trailer (YouTube):** https://youtu.be/rP4A5fxGz3A
 
 ![Gameplay de Poeira Estelar](Docs/gameplay.gif)
 
