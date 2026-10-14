@@ -192,7 +192,7 @@ public static class ProjectSetup
         PlayerSettings.runInBackground = true;
         PlayerSettings.WebGL.compressionFormat = WebGLCompressionFormat.Gzip;
         PlayerSettings.WebGL.decompressionFallback = true;
-        PlayerSettings.WebGL.template = "APPLICATION:Default";
+        PlayerSettings.WebGL.template = "PROJECT:PoeiraEstelar";
 
         var icon = AssetDatabase.LoadAssetAtPath<Texture2D>("Assets/Art/Kenney/Ships/playerShip1_blue.png");
         PlayerSettings.SetIcons(NamedBuildTarget.Unknown, new[] { icon }, IconKind.Any);

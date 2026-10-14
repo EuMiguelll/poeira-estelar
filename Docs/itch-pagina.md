@@ -1,5 +1,7 @@
 # Texto da página no itch.io
 
+Página publicada: https://eumiguel.itch.io/poeira-estelar (enviada para a jam em 14/10/2026).
+
 **Título:** Poeira Estelar
 
 **Short description / tagline:** Colete as estrelas, escape pelo portal e não deixe o oxigênio acabar.
@@ -48,7 +50,8 @@ Sua nave ficou presa em uma estação abandonada. Colete todas as **estrelas** p
 ## Imagens
 
 - **Cover image (630 x 500):** `Docs/capa-itch.png`
-- **Screenshots:** `Docs/screenshot-menu.png`, `Docs/screenshot-jogo.png`, `Docs/screenshot-portal.png`, `Docs/screenshot-fim.png`
+- **Screenshots (nesta ordem):** `Docs/gameplay.gif`, `Docs/screenshot-jogo.png`, `Docs/screenshot-portal.png`, `Docs/screenshot-fim.png`, `Docs/screenshot-menu.png`
+- **Tema:** BG `#120d22`, BG2 `#1d1636`, texto `#e4e8ff`, links `#ffd54a`, títulos `#7fe3ff`, botões `#3b6fe0`; banner `Docs/banner-itch.png`; fundo do embed `Docs/embed-bg-itch.png`
 
 ## Upload
 

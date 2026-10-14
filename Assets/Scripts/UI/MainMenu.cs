@@ -25,8 +25,10 @@ public class MainMenu : MonoBehaviour
         backButton.onClick.AddListener(() => ShowHowTo(false));
         quitButton.onClick.AddListener(Application.Quit);
 
-        // No navegador (WebGL) não existe "sair do jogo".
-        quitButton.gameObject.SetActive(Application.platform != RuntimePlatform.WebGLPlayer);
+        // No navegador (WebGL) não existe "sair do jogo"; o recorde sobe para ocupar o lugar do botão.
+        bool web = Application.platform == RuntimePlatform.WebGLPlayer;
+        quitButton.gameObject.SetActive(!web);
+        if (web) bestTimeText.rectTransform.anchoredPosition += new Vector2(0f, 70f);
 
         float best = GameManager.BestTime;
         bestTimeText.text = best > 0f ? $"Melhor tempo: {GameManager.FormatTime(best)}" : "Ainda sem recorde. Seja o primeiro!";

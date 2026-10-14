@@ -4,10 +4,14 @@ Jogo 2D feito em Unity para o **Projeto Introdução ao Unity (Tutorial)** da di
 
 **Aluno:** Miguel Fernandes Oliveira Damásio
 
-- **Jogar no navegador (itch.io):** ITCH_URL
+- **Jogar no navegador (itch.io):** https://eumiguel.itch.io/poeira-estelar
 - **Repositório:** https://github.com/EuMiguelll/poeira-estelar
 
-![Poeira Estelar](Docs/screenshot-jogo.png)
+![Gameplay de Poeira Estelar](Docs/gameplay.gif)
+
+| Menu | Portal aberto | Vitória |
+| --- | --- | --- |
+| ![Menu](Docs/screenshot-menu.png) | ![Portal](Docs/screenshot-portal.png) | ![Vitória](Docs/screenshot-fim.png) |
 
 ## Sobre o jogo
 
@@ -61,7 +65,7 @@ Todos os passos do tutorial estão no projeto:
 - `Assets/Editor`: scripts de editor que configuram os assets e montam as cenas (menu **Poeira Estelar** no Unity)
 - `Tools/gerar_musica.py`: gera a trilha sonora (synthwave em loop) a partir de código
 
-Feito com **Unity 6.6 (6000.6.4f1)**. Para gerar o build: *File > Build Profiles > Web*.
+Feito com **Unity 6.6 (6000.6.4f1)**. Para gerar o build WebGL: menu **Poeira Estelar > 4. Build WebGL** (usa o template próprio em `Assets/WebGLTemplates/PoeiraEstelar`, com o jogo ocupando a janela inteira).
 
 ## Créditos
 
